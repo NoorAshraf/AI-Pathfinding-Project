@@ -1,0 +1,14 @@
+C:\Users\hp\AppData\Local\Temporary Projects\AIProject\bin\Debug\AIProject.exe
+C:\Users\hp\AppData\Local\Temporary Projects\AIProject\bin\Debug\AIProject.pdb
+C:\Users\hp\AppData\Local\Temporary Projects\AIProject\obj\x86\Debug\AIProject.exe
+C:\Users\hp\AppData\Local\Temporary Projects\AIProject\obj\x86\Debug\AIProject.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\AIProject\AIProject\obj\x86\Debug\AIProject.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\AIProject\AIProject\obj\x86\Debug\AIProject.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\AIProject\AIProject\bin\Debug\AIProject.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\AIProject\AIProject\bin\Debug\AIProject.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\AIProject\AIProject\obj\x86\Debug\AIProject.csprojResolveAssemblyReference.cache
+C:\Users\20100\Desktop\AIproject\AIProject\obj\x86\Debug\AIProject.exe
+C:\Users\20100\Desktop\AIproject\AIProject\obj\x86\Debug\AIProject.pdb
+C:\Users\20100\Desktop\AIproject\AIProject\bin\Debug\AIProject.exe
+C:\Users\20100\Desktop\AIproject\AIProject\bin\Debug\AIProject.pdb
+C:\Users\20100\Desktop\AIproject\AIProject\obj\x86\Debug\AIProject.csprojResolveAssemblyReference.cache
